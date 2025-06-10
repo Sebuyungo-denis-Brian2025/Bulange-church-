@@ -1,22 +1,20 @@
 
 
 .bg-masthead {
-  background-image:url('../public/img/bg-masthead.jpg');
+  background-image:url('../public/img/bg-image-wooden-cross.jpg');
   background-size:cover;
   background-position:center;
   background-repeat:no-repeat;
   min-height:200vh;
-  
-  
-}
+
+  }
 
 .bg-masthead::before{
  content:"";
  position:absolute;
- top:0;left:0;right:0;bottom:0;
  background:inherit;
  opacity:0.0;
  z-index:2;
  pointer-events:none;
-
+ margin: top 0;;
 }

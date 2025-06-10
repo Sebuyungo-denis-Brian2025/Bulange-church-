@@ -8,7 +8,7 @@ function Header() {
       <div className="container px-lg-20  mt-5 ">
                 <div className="row gx-4 gx-lg-5 justify-content-center">
                     <div className="col-lg-8 align-self-end">  
-                        <h1 className="text-white  mt-5 fw-light fst-italic">Welcome to</h1>
+                        <h1 className="text-white  mt-5 fw-light fst-italic text-center">Welcome to</h1>
                         </div>
                    </div>
                         </div>
@@ -16,17 +16,19 @@ function Header() {
             <div className="container px-lg-10  ">
               <div className="row">
                     <div className="col">
-                        <div className="text-white fw-light fs-1 text mt-2"><h1>St Reachel Church Of Uganda Bulange</h1></div>
+                        <div className="text-white fw-light fs-1 text mt-2 text-center"><h1>St Reachel Church Of Uganda Bulange</h1></div>
                    </div>
 </div>
            <div className="row">
                     <div className="col">
-                        <div className="text-white fw-light fs-1 text mt-2 fst-italic"><h3>"Tusookere ku bya Mukama"</h3></div>
+                        <div className="text-white fw-light fs-1 text mt-2 fst-italic text-center"><h3>"Tusookere ku bya Mukama"</h3></div>
                    </div>
 </div>
                         <br/>
+                     <div className="d-flex justify-content-center gap-3">   
                         <a className="btn btn-primary btn-xl " href="#about">Join us now</a>
                         <a className="btn btn-primary btn-xl " href="#about">Donate now</a>
+                    </div>
                     </div>
                     </header>
 
