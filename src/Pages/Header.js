@@ -35,12 +35,12 @@ const handleDonateClick=()=>{
             <div className="container px-lg-10">
               <div className="row">
                     <div className="col">
-                        <div className="text-white fw-bold fs-1 text mt-2 text-center">St Reachel Church Of Uganda Bulange</div>
+                        <div className="text-white fw-bold text mt-2 text-center"><h5 className='display-1'>St Reachel Church Of Uganda Bulange</h5></div>
                    </div>
 </div>
            <div className="row">
                     <div className="col">
-                        <div className="text-white fw-light fs-1 text mt-2 fst-italic text-center"><h3>"Tusookere ku bya Mukama"</h3></div>
+                        <div className="text-white fw-light text mt-2 fst-italic text-center"><h1 classname="display-3">"Tusookere ku bya Mukama"</h1></div>
                    </div>
 </div>
                         <br/>
@@ -51,10 +51,10 @@ const handleDonateClick=()=>{
                     </div>
                     <br/>
                     <br/>
-           <div  className="container text-center fw-bold  mt-4 fs-1 text text-light">What we stand for:</div>
+           <div  className="container text-center fw-bold  mt-4  text text-light"><h1 classname='display-2'>What we stand for</h1></div>
                    <br/>
                    <br/>
-                   <div className="container text-center  mt-5  gap-0" >
+                   <div className="container text-center  mt-1  gap-0" >
   <div className="row">
     <div className="col">                                                                                                                                                                                                               
      <div class="card" style={{width:300,height:400}} gap-0>
@@ -132,7 +132,7 @@ const handleDonateClick=()=>{
 <div  className="container text-center fw-bold fs-1 text text-light pb-5 ">Chat with us Now:</div>
 < div className="container text-center">  
 <div className="row">
-<div className="col">                                                                                                                                                                                                                                                                                                                                                                   ">
+<div className="col">                                                                                                                                                                                                                                                                                                                                                                   "&gt;
 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="white" class="bi bi-facebook" viewBox="0 0 16 16">
  <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"/>
 </svg>
